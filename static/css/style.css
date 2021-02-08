@@ -1,0 +1,18 @@
+/* Style fot the website */
+
+.navbar li {
+    display: inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+/* Style for figure*/
+#big{
+    margin-left:100px;
+}
